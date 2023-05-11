@@ -1,2 +1,4 @@
-# jug-montreal-sbom
-Code pour la présentation SBOM du 11 mai 2023
+A repo to store slides and resources for the presentation about SBOM (Software Bill Of Materials) for the Montreal JUG
+
+* slides: slide sources of this presentation
+* resources: sbom,vex,vdr samples
